@@ -1,7 +1,5 @@
 Olá! Eu sou o Diogo Pereira, sejam bem vindos ao meu perfil do github. 😊
 
-- Atualmente trabalhando como fullstack
-- Estudando Laravel 8
 ##
 
 <div>
