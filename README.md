@@ -39,7 +39,7 @@ Sou um desenvolvedor apaixonado por criar soluções web e ferramentas de produt
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-**Ferramentas & Outros**
+**DevOps, Ferramentas & Outros**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -63,7 +63,7 @@ Sou um desenvolvedor apaixonado por criar soluções web e ferramentas de produt
 
 <div align="center">
   <a href="https://github.com/Diiipereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diiipereira&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diiipereira&show_icons=true&theme=dracula&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diiipereira&layout=compact&theme=dracula&hide_border=true"/>
   </a>
 </div>
