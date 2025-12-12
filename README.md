@@ -83,3 +83,21 @@ Sou um desenvolvedor apaixonado por criar soluções web e ferramentas de produt
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
 </div>
+
+---
+
+### 💻 Principais Projetos
+
+<div align="center">
+  <a href="https://github.com/Diiipereira/aether">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diiipereira&repo=aether&theme=dracula&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Diiipereira/hunt-api-backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diiipereira&repo=hunt-api-backend&theme=dracula&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Diiipereira/hunt-api-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diiipereira&repo=hunt-api-frontend&theme=dracula&hide_border=true" />
+  </a>
+</div>
