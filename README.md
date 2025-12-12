@@ -28,7 +28,6 @@ Sou um desenvolvedor apaixonado por criar soluções web e ferramentas de produt
 
 ### 🔭 Trabalhando atualmente em:
 
-- **Auppy**: Um SaaS completo para gestão de Pet Shops (NestJS + Frontend Moderno).
 - **Aether Themes**: Uma coleção de temas para VS Code (Dark, Light & Coffee) focada em conforto visual.
 
 ---
