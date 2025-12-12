@@ -15,7 +15,7 @@
 
 Sou um desenvolvedor apaixonado por criar soluções web e ferramentas de produtividade. Atualmente estou focado em **Fullstack Development** com ecossistema JavaScript e PHP, além de criar experiências visuais para desenvolvedores.
 
----
+#
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -45,19 +45,19 @@ Sou um desenvolvedor apaixonado por criar soluções web e ferramentas de produt
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zsh](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+#
 
 ### 🎓 Formação Acadêmica
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** 📍 *Anhanguera Educacional | Concluído em Dez/2021*
 
----
+#
 
 ### 🔭 Trabalhando atualmente em
 
 - **Aether Themes**: Uma coleção de temas para VS Code (Dark, Light & Coffee) focada em conforto visual.
 
----
+#
 
 ### 📊 Estatísticas do GitHub
 
@@ -68,7 +68,7 @@ Sou um desenvolvedor apaixonado por criar soluções web e ferramentas de produt
   </a>
 </div>
 
----
+#
 
 ### 📫 Onde me encontrar
 
@@ -84,12 +84,12 @@ Sou um desenvolvedor apaixonado por criar soluções web e ferramentas de produt
   </a>
 </div>
 
----
+#
 
 ### 💻 Principais Projetos
 
 <div align="center">
-  <a href="https://github.com/Diiipereira/aether">
+  <a href="https://github.com/Diiipereira/aether-theme">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diiipereira&repo=aether&theme=dracula&hide_border=true" />
   </a>
 
